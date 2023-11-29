@@ -15,11 +15,13 @@
       "tabs": [
         {
           "tab1": {
-            "layout": 1,
+            "layout": 2,
             "buttontext": "Welcome",
             "title1": "Welcome to Deimos PVE!",
             "text1": "Welcome to Deimos PVE.\nPlease Read the Server Rules!",
-            "imageurl": "https://i.imgur.com/mGt3cAF.png"
+            "imageurl": "https://i.imgur.com/mGt3cAF.png",
+            "title2": "Rules",
+            "text2": "- Please be respectfull towards others/n- No Racism"
           }
         },
         {
