@@ -17,11 +17,11 @@
           "tab1": {
             "layout": 2,
             "buttontext": "Welcome",
-            "title1": "Welcome to Deimos PVE!",
-            "text1": "Welcome to Deimos PVE.\nPlease Read the Server Rules!",
+            "title1": "<TextStyle.Black>Welcome to Deimos PVE!</>",
+            "text1": "<TextStyle.Black>Welcome to Deimos PVE.\nPlease Read the Server Rules!</>",
             "imageurl": "https://i.imgur.com/a4iAlIq.jpg",
             "title2": "Rules",
-            "text2": " - Please be respectfull towards others \n\n - No Racism,Sexism,Homophobia etc \n\n - No exploiting, cheating etc \n\n - Please only contact staff when absolutely nessecary \n\n - When repoting or needing assistance, make sure you have ascreenshots/clips/proof of what happenend\n\n - Highly offsensive tribe/player/dino names will be changes and a warning will be given \n\n - Make sure your chat is working and you respond to staff, failing to do so may result in unneeded problems/situations \n\n - Max bases per map is 1"
+            "text2": " - <TextStyle.Black>Please be respectfull towards others \n\n - No Racism,Sexism,Homophobia etc \n\n - No exploiting, cheating etc \n\n - Please only contact staff when absolutely nessecary \n\n - When repoting or needing assistance, make sure you have ascreenshots/clips/proof of what happenend\n\n - Highly offsensive tribe/player/dino names will be changes and a warning will be given \n\n - Make sure your chat is working and you respond to staff, failing to do so may result in unneeded problems/situations \n\n - Max bases per map is 1</>"
           }
         },
         {
